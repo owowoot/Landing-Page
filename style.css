@@ -28,5 +28,16 @@ header {
 
 .header-link {
     list-style: none;
+    display: flex;
+}
 
+.header-link li {
+    margin-left: 20px;
+}
+
+.header-link a {
+    color: #f8faf9;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 5px 10px;
 }
