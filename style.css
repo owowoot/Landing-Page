@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    padding: 20px 0;
+    padding: 20px 200px;
     background-color: #1f2937;
     color: #f8faf9;
 }
@@ -46,7 +46,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 50px;
+    padding: 50px 250px 100px;
     background-color: #1f2937;
 }
 
@@ -85,15 +85,15 @@ header {
 }
 
 .grid-container {
+    padding: 10px 200px 100px;
     display: flex;
     justify-content: space-between;
     gap: 20px;
-    max-width: 1400px;
     margin: 0 auto;
 }
 
 .grid-item {
-    padding: 20px;
+    padding: 10px;
     border-radius: 8px;
     text-align: center;
     display: flex;
@@ -110,11 +110,11 @@ header {
 .grid-item figcaption {
     font-size: 16px;
     color: #1f2937;
-    margin-top: 10px;
+    margin-top: 10px 50px;
 }
 
 .quote-section {
-    padding: 50px 250px;
+    padding: 50px 300px;
     background-color: #e5e7eb;
 }
 
