@@ -112,3 +112,22 @@ header {
     color: #1f2937;
     margin-top: 10px;
 }
+
+.quote-section {
+    padding: 50px 250px;
+    background-color: #e5e7eb;
+}
+
+.quote-text {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.quote-author {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: end;
+}
